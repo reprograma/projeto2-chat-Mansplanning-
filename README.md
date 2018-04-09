@@ -5,3 +5,6 @@ O projeto tem como objetivo desenvolver habilidade de programação com Java Scr
 
 
 ![](https://raw.githubusercontent.com/reprograma/projeto2-chat-Mansplanning-/master/assets/img/tela-quiz/tela%20do%20quiz.png)
+
+![](https://raw.githubusercontent.com/reprograma/projeto2-chat-Mansplanning-/master/assets/img/tela-quiz/resultado.png)
+
