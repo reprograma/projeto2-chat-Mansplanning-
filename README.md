@@ -3,8 +3,12 @@ Nessa semana iremos desenvolver um de Chat sobre Mansplanning em Java Script e f
 
 O projeto tem como objetivo desenvolver habilidade de programação com Java Script. 
 
+#Desafio
 
+Teremos 10 tweets com possiveis caso de Mansplanning, você deve armazenar as respostas do usuário  e mostrar o resultado na tela de resultado. 
+
+##Tela do quiz
 ![](https://raw.githubusercontent.com/reprograma/projeto2-chat-Mansplanning-/master/assets/img/tela-quiz/tela%20do%20quiz.png)
 
+##Tela de resultado 
 ![](https://raw.githubusercontent.com/reprograma/projeto2-chat-Mansplanning-/master/assets/img/tela-quiz/resultado.png)
-
