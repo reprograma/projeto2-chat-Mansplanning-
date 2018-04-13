@@ -15,5 +15,7 @@ Teremos 10 tweets com possíveis caso de Mansplanning,  armazene as respostas do
 
 ### Trabalho de algumas alunas 
 https://github.com/natizui/projeto2-chat-Mansplanning-/tree/nati
+
 https://github.com/lprimante/projeto2-chat-Mansplanning-
+
 https://github.com/jessicaarrais/projeto2-chat-Mansplanning-
