@@ -12,3 +12,8 @@ Teremos 10 tweets com possíveis caso de Mansplanning,  armazene as respostas do
 
 ### Tela de resultado 
 ![](https://raw.githubusercontent.com/reprograma/projeto2-chat-Mansplanning-/master/assets/img/tela-quiz/resultado.png)
+
+### Trabalho de algumas alunas 
+https://github.com/natizui/projeto2-chat-Mansplanning-/tree/nati
+https://github.com/lprimante/projeto2-chat-Mansplanning-
+https://github.com/jessicaarrais/projeto2-chat-Mansplanning-
